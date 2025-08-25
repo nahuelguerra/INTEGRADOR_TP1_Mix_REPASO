@@ -8,7 +8,7 @@ Este proyecto implementa un sistema orientado a objetos basado en la familia de 
 
 - Aplicar conceptos de **Herencia** y **Polimorfismo**
 - Implementar **Interfaces** en Java
-- Manejar **Excepciones** (ArrayIndexOutOfBoundsException)
+- Manejar **Excepciones**
 - Trabajar con **Colecciones** (Arrays, List)
 - Utilizar **Iterator** y **Comparator** para ordenamiento
 
