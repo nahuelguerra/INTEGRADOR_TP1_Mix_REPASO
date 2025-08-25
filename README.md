@@ -15,7 +15,18 @@ Este proyecto implementa un sistema orientado a objetos basado en la familia de 
 
 ## 🚀 Cómo Ejecutar
 
-Clonar el repositorio
-Compilar todas las clases Java
-Ejecutar la clase Main
-Seguir las instrucciones en consola para ingresar datos
+- Clonar el repositorio
+- Compilar todas las clases Java
+- Ejecutar la clase Main
+- Seguir las instrucciones en consola para ingresar datos
+
+## 👥 Autores
+
+- Juan Manuel Fernandez
+- Nahuel Emiliano Guerra
+- Carina Beatriz D'Agata
+- Alaina Sabrina Reyes Fernandez
+- Nerina Ayelen Abrigo
+- Tiziana Pastrana
+- Pedro Ignacio Esteban Denaro
+- Juan Ignacio Género
