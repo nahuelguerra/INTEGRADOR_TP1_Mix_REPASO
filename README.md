@@ -11,3 +11,11 @@ Este proyecto implementa un sistema orientado a objetos basado en la familia de 
 - Manejar **Excepciones** (ArrayIndexOutOfBoundsException)
 - Trabajar con **Colecciones** (Arrays, List)
 - Utilizar **Iterator** y **Comparator** para ordenamiento
+
+
+## 🚀 Cómo Ejecutar
+
+Clonar el repositorio
+Compilar todas las clases Java
+Ejecutar la clase Main
+Seguir las instrucciones en consola para ingresar datos
