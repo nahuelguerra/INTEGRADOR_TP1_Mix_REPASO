@@ -1,4 +1,4 @@
-package ej_integrador;
+package com.mycompany.integrador_tp1_mix_repaso;
 
 import java.util.Scanner;
 
