@@ -11,6 +11,6 @@ package com.mycompany.integrador_tp1_mix_repaso;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hola chicos!!!");
+        System.out.println("Hola Cari como estas?");
     }
 }
