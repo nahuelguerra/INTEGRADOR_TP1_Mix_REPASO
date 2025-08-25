@@ -7,7 +7,7 @@ package com.mycompany.integrador_tp1_mix_repaso;
 
 /**
  *
- * @author JuanmaPC
+ * @author nahuelguerra
  */
 public interface MamaPata {
     
