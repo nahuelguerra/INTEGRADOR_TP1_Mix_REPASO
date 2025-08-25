@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author JuanmaPC
+ * @author tizia
  */
 public class Verde extends Castor implements MamaPata{
     
