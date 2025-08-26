@@ -33,7 +33,7 @@ public class Castor {
     public void tocarGuitarra(){
         System.out.println("Tocando 3 cuerdas");
         for(int i = 0; i < 3; i++){
-            System.out.println("Toca cuerda " + ((Math.random() * 6) + 1 ));
+            System.out.println("Toca cuerda " + ((int)(Math.random() * 6) + 1 ));
         }
     }
 }
