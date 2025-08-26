@@ -15,7 +15,7 @@ import java.util.Iterator;
 public class Main {
 
     public static void main(String[] args) {
-        ej_integrador.Verde orniVerde = new ej_integrador.Verde("green", 15, 5.5, 6.5, 7.5);
+        Verde orniVerde = new Verde("green", 15, 5.5, 6.5, 7.5);
         Azul orniAzul = new Azul("blue", 10.5, 8.5);
         Azul orniAzul2 = new Azul("blui", 11.5, 6.5);
         
@@ -42,6 +42,7 @@ public class Main {
         
         ArrayList<Azul> mejoresNadadores = new ArrayList();
         for (Castor orni : ornitorrincos){
+            orni.tocarGuitarra();
             if(orni instanceof Azul){
                 mejoresNadadores.add((Azul) orni);
             }

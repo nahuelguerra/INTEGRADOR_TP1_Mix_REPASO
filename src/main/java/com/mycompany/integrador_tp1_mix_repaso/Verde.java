@@ -1,7 +1,5 @@
 package com.mycompany.integrador_tp1_mix_repaso;
 
-import java.util.Scanner;
-
 /**
  *
  * @author tizia
