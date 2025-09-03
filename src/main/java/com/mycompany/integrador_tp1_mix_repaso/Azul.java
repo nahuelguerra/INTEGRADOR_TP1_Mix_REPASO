@@ -51,7 +51,7 @@ public class Azul extends Castor{
         }catch(InputMismatchException e){
             System.out.println("Error de tipo de dato: " + e.getMessage());
         }
-        System.out.println("El ornitorrinco nada con una propulsion de: " + this.propulsion);
+        System.out.println("El ornitorrinco nada con una propulsion de: NERIIIIIIIIIIIIIIIIIII " + this.propulsion);
         System.out.println("La velocidad de nado es:" + this.velocidad);
     }
     
