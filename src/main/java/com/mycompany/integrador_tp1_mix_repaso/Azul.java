@@ -44,15 +44,15 @@ public class Azul extends Castor{
     @Override
     public void nadar(){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingrese la propulsion para el ornitorrinco azul.");
+        System.out.println("Hola Neri como estas?");
         try{
             double prop = sc.nextDouble();
             setPropulsion(prop);
         }catch(InputMismatchException e){
             System.out.println("Error de tipo de dato: " + e.getMessage());
         }
-        System.out.println("El ornitorrinco nada con una propulsion de: " + this.propulsion);
-        System.out.println("La velocidad de nado es: " + this.velocidad);
+        System.out.println("La Neri nada con una propulsion de: " + this.propulsion);
+        System.out.println("La velocidad de nado de Neri es: " + this.velocidad);
     }
     
 }
